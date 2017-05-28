@@ -1,0 +1,19 @@
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\bin\Debug\OOP_Laba_7.exe.config
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\bin\Debug\OOP_Laba_7.exe
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\bin\Debug\OOP_Laba_7.pdb
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\obj\Debug\OOP_Laba_7.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\obj\Debug\OOP_Laba_7.Form1.resources
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\obj\Debug\OOP_Laba_7.Properties.Resources.resources
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\obj\Debug\OOP_Laba_7.csproj.GenerateResource.Cache
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\obj\Debug\OOP_Laba_7.exe
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7\OOP_Laba_7\obj\Debug\OOP_Laba_7.pdb
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\bin\Debug\OOP_Laba_7.exe.config
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\obj\Debug\OOP_Laba_7.exe
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\obj\Debug\OOP_Laba_7.pdb
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\obj\Debug\OOP_Laba_7.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\obj\Debug\OOP_Laba_7.Form1.resources
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\obj\Debug\OOP_Laba_7.Form2.resources
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\obj\Debug\OOP_Laba_7.Properties.Resources.resources
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\obj\Debug\OOP_Laba_7.csproj.GenerateResource.Cache
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\bin\Debug\OOP_Laba_7.exe
+E:\УЧЁБА\2 Курс\2с\ООП\Лабы\OOP_Laba_7 — копия\OOP_Laba_7\bin\Debug\OOP_Laba_7.pdb

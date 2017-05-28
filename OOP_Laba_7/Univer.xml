@@ -1,0 +1,23 @@
+﻿<UNIVER xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <students>
+    <Student>
+      <BDay>2017-01-17T03:08:57</BDay>
+      <adress>
+        <city>safwf</city>
+        <index>13123</index>
+        <street>dasfsafsf</street>
+        <house>232</house>
+        <flat>22</flat>
+      </adress>
+      <familya>qwew</familya>
+      <name>qwqw</name>
+      <otchestvo>qwqeq</otchestvo>
+      <curs>0</curs>
+      <special>ПОИБМС</special>
+      <gruppa>4</gruppa>
+      <avg_note>0.3</avg_note>
+      <pol>Мужской</pol>
+      <telephon>(232) 323-4343</telephon>
+    </Student>
+  </students>
+</UNIVER>      
